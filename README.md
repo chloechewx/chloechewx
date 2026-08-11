@@ -1,8 +1,27 @@
-## I'm an alligator 👋
+<div align="center">
+  
+<h1>𓆝 𓆟 𓆞 ⋆｡˚ I'm an alligator ˚｡⋆ 𓆌</h1>
 
-![:)](wo.jpg) 
+<img src="main.gif" alt="alligator" width="600">
 
-在日本
+<br>
 
-Back when I used to do branding & design: [Design portfolio](https://iamchloec.wixsite.com/home)
-~~~ Left and Right brain overload ~~~
+<img src="wo.jpg" alt="me in Japan" width="600">
+
+<h3>在日本</h3>
+
+<sub>✦ chronically online ✦</sub>
+
+<br>
+
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+<br>
+<sub>
+I used to do <b>branding & design</b>.<br>
+Some of it still lives over here ↓
+</sub>
+<h2>
+  <a href="https://iamchloec.wixsite.com/home">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞</a>
+</h2>
+
+</div>
