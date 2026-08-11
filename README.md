@@ -8,7 +8,9 @@
 
 <img src="wo.jpg" alt="me in Japan" width="600">
 
-<h3>在日本</h3>
+<br>
+<strong>在日本</strong>
+<br><br>
 
 <sub>✦ chronically online ✦</sub>
 
@@ -20,8 +22,8 @@
 I used to do <b>branding & design</b>.<br>
 Some of it still lives over here ↓
 </sub>
-<h2>
-  <a href="https://iamchloec.wixsite.com/home">𓆝 𓆟 𓆞 𓆝 𓆟 𓆞</a>
-</h2>
+<br><br>
+<a href="https://iamchloec.wixsite.com/home"><b>𓆝　𓆟　𓆞　𓆝　𓆟　𓆞</b></a>
+<br><br>
 
 </div>
